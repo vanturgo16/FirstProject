@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OJEKONLINE</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="login1">LOGIN1</string>
+    <string name="password2">Password</string>
+    <string name="pindah1">Pindah1</string>
+    <string name="pindah2">Pindah2</string>
+    <string name="pindah3">Pindah3</string>
+    <string name="textpanjang">Buku adalah kumpulan kertas atau bahan lainnya yang dijilid menjadi satu pada salah satu ujungnya dan berisi tulisan atau gambar. Setiap sisi dari sebuah lembaran kertas pada buku disebut sebuah halaman. Seiring dengan perkembangan dalam bidang dunia informatika, kini dikenal pula istilah e-book atau buku-e</string>
+</resources>
